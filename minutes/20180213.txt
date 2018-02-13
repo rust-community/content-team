@@ -1,0 +1,78 @@
+05:30:06 <skade> booyaa[: is it now?
+05:30:09 <booyaa[> yes
+05:30:11 <skade> oh, sorry
+05:30:15 <skade> yes, I can make it
+05:30:26 <booyaa[> yeah need to find out why the bot didn't trigger an hour ago
+05:30:57 <booyaa[> hopefully a quick meeting here's the agenda: https://github.com/rust-community/content-team/issues/6
+05:32:17 <booyaa[> housekeeping: we've got a repo (as have the other teams). mostly for tracking issues, for now does anyone mind if we keep any docs that we reference in the read me?
+05:33:39 <booyaa[> okay can i read that as consent?
+05:34:49 <skade> I find that oky
+05:35:11 <booyaa[> also i'm trying an experiment using the team discussions as an alternative meeting place for people who can't irc at work. https://github.com/orgs/rust-community/teams/content-team/discussions/3
+05:35:33 <skade> I found it surprising that I don't seem to get proper notifications for them.
+05:35:46 <skade> For some weird reason, I seem to miss out.
+05:36:15 <booyaa[> ah that could be a problem
+05:36:36 <skade> Let's keep it and let investigate if they are just not noisy enough :)
+05:36:51 <booyaa[> cool
+05:36:55 <skade> in the meantime, please ping me if you think there's something of interested, just to make sure
+05:37:00 <booyaa[> will do
+05:37:23 <booyaa[> i'll try to announce the team thread at the same time as the agenda (did mine a bit too early this time)
+05:37:56 <booyaa[> Manishearth: mention meeting formats, any thoughts? at the moment i'm just adopting our main community team meeting style
+05:38:10 <booyaa[> agenda driven status reports
+05:38:56 <Manishearth> booyaa[: yo
+05:39:01 <booyaa[> o/
+05:39:32 <Manishearth> no status to report
+05:39:58 <booyaa[> misunderstanding, just discussing the meeting formats and should we try others.
+05:40:24 <booyaa[> i was citing our default at the moment is like our main community style
+05:41:55 <booyaa[> should we continue to use the current meeting format then?
+05:42:09 <skade> I would continue using it
+05:42:31 <skade> we can also discuss a new one, but we can use the forums for that
+05:42:59 <booyaa[> forums? as in urlo or github team discussions?
+05:43:04 <skade> github discussions
+05:43:08 <booyaa[> gotcha
+05:43:34 <booyaa[> got my bulletpoints messed, but this isn't part of house keeping. Tracking our resources
+05:43:51 <booyaa[> so i know of the youtube channel, and there's a medium channel too?
+05:44:22 <booyaa[> can we start a google doc to track which channels we have and who is the admin atm?
+05:45:46 <skade> there's a medium channel, but it isn't used
+05:46:20 <booyaa[> also we have our community.rs blog, from what i understand herald is going to be retired soon skade?
+05:46:24 <skade> it needs manuall work on every post, so we'd need some time to try it out and requires a decision whether we should import olsd stuff
+05:46:40 <skade> well, who's using the herald beyond you and ralf? :D
+05:47:34 <booyaa[> prolly needs a bit more promoting, kinda nice because it's a self service place to publish. it's got a fairly decent reach as well
+05:48:04 <skade> does it?
+05:48:16 <booyaa[> is the rustvideos our twitter account, i seem to recall it tweets every time a new video is added
+05:48:48 <booyaa[> 248 followers, could be a lot worse (rust herald)
+05:49:11 <booyaa[> yeah rustvideos has got more followers
+05:49:37 <booyaa[> okay so is it fair to say our main channels are youtube and community.rs for content?
+05:49:48 <skade> yes
+05:50:01 <booyaa[> k i'll add that to our readme for reference then
+05:50:05 <Manishearth> yes
+05:50:09 <skade> and the language blog, even if that has editing ruls
+05:50:11 <skade> rules
+05:50:29 <skade> TWIR should also be counted as a channel, even if people are not on this team
+05:50:39 <booyaa[> should we invite them to join us?
+05:51:14 <booyaa[> i took the liberty of inviting wesley who runs readrust, he's in the southern hemisphere so i imagine a lot of our discussion will be async
+05:52:35 <skade> or at least if they want to collaborate
+05:54:16 <booyaa[> k i will drop twir a note
+05:54:52 <booyaa[> next time Rust Planet/Magazine briefing - @skade @wezm @aturon (i'll make this last so we don't go over 30m) + rust anthrology
+05:55:14 <booyaa[> did anyone see the discussion thread on the community group email?
+05:55:20 <skade> o/
+05:55:47 <booyaa[> skade: do you want to tell us your thoughts?
+05:56:08 <skade> I really like the idea and would like to try it out, but personally can't invest _too_ much time into this.
+05:56:24 <skade> I would really like to see it happen, though.
+05:56:55 <booyaa[> is it an over simplification to say that read rust is slowly morphing into planet type aggregator?
+05:57:30 <skade> yes, which is different from the magazine approach, though
+05:57:45 <skade> still, brand-wise, that may make sense to keep it together
+05:57:50 <booyaa[> fyi read rust post categorisation is done manually https://github.com/orgs/rust-community/teams/content-team/discussions/3?from_comment=4#discussion-3-comment-4
+05:58:16 <booyaa[> so would the magazine be a print publication (even if it's solely distributed digitally)?
+05:58:44 <skade> just digital, collected
+05:59:15 <skade> also not too much fluff around it, it should mainly be a vehicle for focusing people on a topic regularly
+05:59:55 <booyaa[> i'm trying to find the rust anthrology stuff but failing
+06:00:26 <skade> https://github.com/brson/rust-anthology? 
+06:00:31 <booyaa[> skade: would it be okay if we elaborated on this (the magazine) for the next meeting? find out what needs to be the first steps, who we need to get involved?
+06:00:44 <skade> yep, I'd be fine with that
+06:01:02 <booyaa[> excellent, i have to admit i'm rather excited about the whole magazine idea too
+06:01:31 <booyaa[> okay that's it for today, i'll add the rust magazine and youtube discussion for next week's agenda
+06:01:35 <booyaa[> any other business?
+06:01:57 <booyaa[> also please feel free to invite friends who you think might be interested in participating with this sub team
+06:01:58 <skade> not that I know of
+06:02:44 <booyaa[> k that's it i guess. thanks everyone!
+06:02:50 <booyaa[> see you in two weeks time
