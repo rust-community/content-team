@@ -1,0 +1,78 @@
+05:30:57 <booyaa[> meeting time!
+05:31:08 <booyaa[> Manishearth: skade you around?
+05:31:19 <booyaa[> i know bad.boy sends his apologies.
+05:32:16 <Manishearth> o/
+05:32:20 <booyaa[> hello!
+05:33:56 <nasa42> @booya so https://github.com/cmr/this-week-in-rust/issues/607 says the meeting is on Tuesday, but I guess that's in error, and meeting is on Wednesday?
+05:33:57 <booyaa[> housekeeping - i think everyone knows we've moved back to here for now. the main reason is to have more passive listeners. also our friends from twir have accepted our invite
+05:34:51 <booyaa[> hi nasa42 this is the content team meeting, we're a sub team of the community team
+05:35:01 <booyaa[> who will still meet next wednesday usual time
+05:35:13 <booyaa[> the sub teams usually meet on the alternating week
+05:36:01 <nasa42> ok
+05:36:07 <booyaa[> i'm going to drop Chris Krycho a note, but please keep suggesting more people to invite.
+05:36:34 <havi> hey folks, hi! - think of me as a passive listener for now… looking out for rust content we (devrel/moz staff) can publish or promote on mozhacks blog and channels…  
+05:36:41 <booyaa[> hi havi!
+05:37:19 <booyaa[> so just as an introduction, the content team primarily looks after these publication channels: https://github.com/rust-community/content-team/issues/9
+05:37:31 <havi> hey booyaa[ ! 
+05:37:59 <booyaa[> but we're also hoping to share any future projects and and plans with our friends who also produce content i.e. twir and mozilla hacks :)
+05:38:17 <booyaa[> that's house keeping done.
+05:38:24 <booyaa[> any comments?
+05:39:12 <havi> what is twir ? 
+05:39:24 <nasa42> This Week in Rust
+05:39:29 <booyaa[> nasa42: would you like to tell us?
+05:39:30 <nasa42> a weekly newsletter
+05:39:38 <booyaa[> ty
+05:39:49 <havi> +1
+05:40:00 <nasa42> basically weekly rust and community updates collected together - available as feed, and email newsletters - https://this-week-in-rust.org/
+05:40:37 <booyaa[> k next item: Periodical blogging on Mozilla Hack + New blogging campaigns
+05:40:54 <havi> thanks nasa42 , just subscribed 
+05:40:57 <booyaa[> so we're going to start working with our friends at Mozilla Hacks!
+05:41:18 <nasa42> nice! havi
+05:41:18 <booyaa[> and one of our aims is to contribute periodical posts from the rust world.
+05:41:22 <havi> i manage  hacks.mozilla.com and i’d be delighted to publish rust posts...
+05:41:48 <havi> we have some parameters…. (we don’t like to republish is prob the biggest caveat)
+05:42:32 <booyaa[> also related is that i've joined the Mozilla Open Leader / Open Working Programme and my project is going to be creating a process to run, manage and track  blogging campaigns
+05:43:02 <booyaa[> I'm still sorting out the repo, but as soon as it's in a reasonable shape (a few more days) i will share with all.
+05:43:29 <havi> wow, that’s super-cool…. and it might be a little meta, but I think blogging about your project should be really intersting….
+05:43:55 <booyaa[> havi, definitely agree with the keepig things original (rather than republish) i know it can play havok with seo and the like
+05:44:13 <booyaa[> havi good idea thanks :)
+05:44:42 <havi> i also noticed that the Rust youtube channel is getting good traffic on the Fosdem track talks. nice! 
+05:44:51 <booyaa[> so i think this project, will probably be a process rather than code related (initially).
+05:45:15 <booyaa[> one of the things that makes this harder but is also something the core team is trying to do as a whole is track contributions.
+05:45:16 <havi> do you also take care of that booyaa? 
+05:45:30 <booyaa[> this is easier to do with code, or well soemthing that lives in a repo.
+05:46:01 <booyaa[> havi: yup that's another of our responsibilities
+05:46:27 <booyaa[> so i'd appreciate any feedback as soon as the repo is ready (will setup a tracking issue)
+05:46:28 <havi> (thx, sorry topic drift) - 
+05:47:21 <booyaa[> one thing to think about and why i've refer to campaigns, is that we can see that #rust2018 was a resounding success. could we some how repeat this with (using ashley's words) focus topics?
+05:47:49 <ag_dubs> (i think this would be a great idea but you already know that lol)
+05:48:01 <ag_dubs> i think @skade was working on something to solicit ideas for "blogposts" wanted
+05:48:15 <booyaa[> what's it like to attend a rustbridge workshop? rust and the embedded industry etc
+05:48:20 <ag_dubs> the only change to that here is that instead of a topic that you claim and write a single post for, we can advocate for a single topic that many people write posts for
+05:48:28 <ag_dubs> yeah i think the rustbridge one would be great
+05:48:50 <ag_dubs> i think additionally just a "tell us about your experience learning rust- what resources did you use? what was awesome? what was really tricky? etc"
+05:49:07 <booyaa[> +1+1+1
+05:49:22 <ag_dubs> could probably repurpose that for a topic about trying to get your company to use rust
+05:50:36 <booyaa[> i figured we start with blog posts and videos as initial contributions, also it would be nice to see how people vote for topics they want to write? maybe the vote is your pledge to write about that topic?
+05:51:16 <ag_dubs> i'm always 50/50 on voting as a decision metric
+05:51:52 <havi> hey - so, playing a little catch up here - #rust2018 was a hashtag effort to compile many rust posts?  
+05:52:11 <havi> is there a repo or page or something where I can learn more?
+05:52:30 <booyaa[> it was to provide another way to shape the roadmap for 2018
+05:52:31 <nasa42> http://readrust.net/rust2018/
+05:53:51 <booyaa[> havi: here's the initiating blog post for the campaign https://blog.rust-lang.org/2018/01/03/new-years-rust-a-call-for-community-blogposts.html
+05:54:34 <booyaa[> it was meant to compliment the RFC process and help shape the roadmap for rust in 2018
+05:54:37 <havi> thanks both. this is so aligned with my own interest on hacks in getting ‘many voices’ 
+05:55:04 <booyaa[> skade: have you got time to talk about the magazine?
+05:55:31 <booyaa[> we could continue discussing via the discussion thread i think skade's at an industry conference today
+05:56:06 <booyaa[> re: discussion thread (this is for people who can't make it to irc for timezone and work related issues): https://github.com/orgs/rust-community/teams/content-team/discussions/4
+05:56:35 <booyaa[> k i think we've got 4 mins to discuss youtube is that enough or should bump to next week?
+05:58:33 <booyaa[> i need to transfer some of these topics to https://github.com/rust-community/content-team/issues/10 before i forget
+05:59:31 <booyaa[> k i'l bump it to next week, i think the main thing is to transfer the guide to our repo https://github.com/rust-community/team/issues/191
+05:59:57 <booyaa[> anything else?
+06:00:31 <booyaa[> k, thanks everyone for attending!
+06:01:57 <havi> thanks booyaa - also for hacks just wanted to drop this quick link: https://wiki.mozilla.org/Devrel/Hacks
+06:02:05 <havi> glad to meet y’all...
+06:02:25 <booyaa[> thanks for that havi!
+06:03:23 <havi> and I’m findable in moz irc, usu in #devrel, in moz slack as @havi or havi at mozilla dot com if you have a specific question… 
+06:03:35 <havi> thanks! 
+06:03:38 <booyaa[> :)
