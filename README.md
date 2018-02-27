@@ -10,7 +10,7 @@ Tuesday 5:30PM UTC (alternating weeks to the main Community meeting on Wednesday
 
 ### Location
 
-- IRC Mozilla #rust-content EIAL (Easy IRC Access Link): https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-content
+- IRC Mozilla #rust-community EIAL (Easy IRC Access Link): https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-community
 - Alternative discussion thread (for those who can't use IRC at work) via github teams: https://github.com/orgs/rust-community/teams/content-team
 
 ## Team
