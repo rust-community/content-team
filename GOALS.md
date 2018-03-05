@@ -4,7 +4,7 @@ Members: booyaa, Florian, badboy and Manish.
 
 ## Focus
 
-Organize and write for the community blog and other publication outlets, Organise and promote material like videos and podcasts, Provide lectorate (copy editing) and assistance for people that want to write blog posts on rust.
+Organize and write for the community blog and other publication outlets; organize and promote material like videos and podcasts; provide lectorate (copy editing) and assistance for people that want to write blog posts on rust.
 
 ## Goals
 
