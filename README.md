@@ -24,6 +24,10 @@ Tuesday 5:30PM UTC (alternating weeks to the main Community meeting on Wednesday
 
 ## Publication channels
 
-- Community.rs blog
-- YouTube
-- Rust Blog
+- [Community.rs blog](http://blog.community.rs/en-US/)
+- [YouTube](http://youtube.com/c/rustvideos)
+- [Rust Blog](https://blog.rust-lang.org/)
+
+## Projects
+
+- [content-o-tron](https://github.com/rust-community/content-o-tron) - a process to generate more Rust related content!
