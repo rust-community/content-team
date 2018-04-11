@@ -1,0 +1,13 @@
+05:14:34 <havi__> thanks booyaa[ - i have a question for the channel: when Mozilla Hacks blog publishes about Rust (like Alex's wasm bindgen post: https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/ ) is it cool to submit to Read Rust?  
+05:33:13 <booyaa> Heya Havi yes that would be great
+05:34:09 <booyaa> I’m pretty certain Wesley (Read Rust) has a submit form, let me know if that’s not the case
+05:34:17 <booyaa> Idea
+05:36:07 <booyaa> So my only update is we’re extending the focus topics issue for a bit longer whilst #rustallhands blog posts are being gathered
+05:40:23 <booyaa[> also i'm going to be absent for a while. got some time off and starting a new job. so unless it's an emergency i prolly won't reappear until the next main team meeting on the 2nd of may
+05:42:00 <booyaa[> havi__: just had a quick look and it looks like alex's post is already on readrust (not sure if you just submitted it): https://readrust.net/web-and-network-services/
+05:42:18 <badboy> booyaa[: \o/ yey for the new job
+05:42:34 <booyaa[> badboy: thank you :)
+05:44:08 <booyaa[> um i think that's it, sorry it's gone a bit quite. i've got a bit tidying to do for content-o-tron before the mozilla global sprint on may 10th-11th (which is when it gets showcased)
+05:44:48 <booyaa[> if no one else has anything, i'll close this meeting. thanks all, good luck with rustfest planning
+05:56:26 <havi__> booyaa[ thanks for investigating, wasn't me, take care and good luck re: new job! 
+06:14:48 <booyaa> havi__ yw :)
