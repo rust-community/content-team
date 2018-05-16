@@ -8,7 +8,9 @@ Please note we've moved back to the main community channel (`#rust-community`) t
 
 **5:30-6pm UTC on #rust-community on irc.mozilla.org. EIAL (Easy IRC Access Link): https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-community**
 
-Agenda
+Meeting logs (IRC): https://mozilla.logbot.info/rust-community
+
+**Agenda** (shortened URL to this issue: [bit.ly/2GSLLYA](http://bit.ly/2GSLLYA)
 
 - Announcements - __chair_name__ 5mins
 
