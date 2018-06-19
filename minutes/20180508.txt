@@ -1,0 +1,25 @@
+05:30:57 <booyaa> right folks here's the agenda
+05:30:59 <booyaa> https://github.com/rust-community/content-team/issues/28
+05:31:38 <booyaa> housekeeping - nothing to report, been on hols for almost 3 weeks.
+05:32:19 <booyaa> if ag_dubs is around she can give us the #rustreach campaign?
+05:33:48 <booyaa> this meeting is also an opportunity for people who plan to participate in the content-o-tron global sprint this thursday and friday
+05:35:03 <booyaa> if there's anyone's who joined just for that, please ask your questions. although given that the channel is in locked down i don't know how well kwiirc links going to fairre
+05:38:50 <booyaa> i'm going to give us until 17:50 then rwUTCanother 12 mins before awwrapping up
+05:38:52 <skade> Ohai
+05:38:53 <booyaa> anyone got any contenty stuff they want to talk about?
+05:39:07 <skade> Warning : I'm on the phonw
+05:39:33 <booyaa> hello! :)
+05:39:59 <skade> Is there any possibility to join on the content sprint if you have to work on those dates?
+05:40:04 <booyaa> sorry to hear herald is being shutted (you did give us fair warning)
+05:40:28 <booyaa> skade: content sprint?
+05:40:40 <skade> Eh, mozilla sprint
+05:41:29 <booyaa> ah you want to join me on the global sprint to work on content-o-tron? virtually rather than at the london mozilla office?
+05:42:04 <skade> Yes, also, I'll not have too much time, but I can certainly spare a couple of hours to work on tasks
+05:42:35 <booyaa> awesome yeah, please do! even a small amount of time is appreciated!
+05:43:22 <booyaa> i'll probably stick any sprint chat on #rust-content to avoid spamming this channel that or setup a gitter.
+05:43:28 <skade> Cool, so, if I had some tasks for Thursday afternoon/evening, I'd be very happy
+05:45:12 <booyaa> that's great! i'll get a better idea by thursday lunchtime what's still unassigned
+05:46:04 <booyaa> there's definitely a few discussion point issues where i'd like your input, infact any of the community in general.
+05:49:05 <booyaa> well i think that's it for today, one last plug for the Content-o-Tron being worked during the Mozilla Global Sprint (this Thursday and Friday): https://github.com/rust-community/content-o-tron/issues/8
+05:49:35 <booyaa> i'll be monitoring this channel and #rust-content, any help is greatly appreciated!
+05:50:25 <booyaa> that's a wrap folks!

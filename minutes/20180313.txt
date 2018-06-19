@@ -1,0 +1,98 @@
+05:30:11 <booyaa[> meeting time! https://www.youtube.com/watch?v=7RWkjvdTmH0
+05:30:45 <booyaa[> Manishearth: skade badboy ping!
+05:30:49 <booyaa[> agenda: https://github.com/rust-community/content-team/issues/17
+05:30:52 <skade> booyaa[: ping
+05:31:02 <badboy> I ... I .... wat
+05:31:25 <booyaa[> badboy: peppa pig? i'm learning french :D
+05:31:27 <badboy> anyway, I'm here
+05:31:56 <havi__> me too! hey - old friends from far away! 
+05:32:12 <booyaa[> so team discussions, i think it's time to let them go. i think it might be better to hold discussions which might become actions as issues. thoughts?
+05:32:20 <booyaa[> hiya havi__ o/
+05:32:33 <badboy> fine with me. Always had trouble actually quickly finding the notes
+05:32:38 <badboy> plus I don't think they are public
+05:33:01 <booyaa[> i didn't know this, might explain why we had so little feedback perhaps?
+05:33:39 <skade> this is a good question, but I also guess no one ever goes there
+05:33:47 <badboy> right
+05:33:58 <badboy> and yep, just checked in a private window, it requires team access
+05:34:08 <badboy> so all back to the issue boat /o/
+05:34:23 <booyaa[> ah well there you go, i'll have to check might have inheirted it's privacy from the community team
+05:34:24 <badboy> .oO( booyaa[ highly confused me with that youtube video)
+05:34:31 <booyaa[> lol
+05:34:49 <booyaa[> okay, mr skade. the rust magazine got time to say a few words?
+05:36:11 <skade> so
+05:36:25 <skade> I don't know how much to say about it
+05:36:39 <skade> the rough idea was basically to attract a couple of posts on a subject regularly
+05:36:53 <skade> And ask people to submit those and curate those
+05:37:39 <skade> Maybe slotting them a little in the range of "this is a good editorial", a couple of articles to follow along and maybe a note from us why we picked that topic
+05:38:00 <havi__> what is the diff between a blog and a mag?  (not asking to be facetious) btw, there is a very nice Rust post coming tomorrow on Hacks from linclark.... 
+05:38:02 <skade> So that at some point we can point people to "need a primer for embedded? here's a couple of posts"
+05:38:26 <skade> havi__: It's mainly the collection and the method for making a call for articles
+05:38:43 <skade> similar to how me made a call for "what do you want from rust in 2018" back in december
+05:39:19 <booyaa[> but the difference i guess is there's a editorial and maybe comments by others around the curated blog posts?
+05:39:25 <skade> yes
+05:39:35 <havi__> right, i thought that collection method was super-interesting... 
+05:40:13 <skade> havi__: yep, so now imagine that for "embedded", "gaming", "browser architecture" :D
+05:40:21 <booyaa[> incidentally i think this issue is probably related at least to get some ideas for themed articles: https://github.com/rust-community/content-team/issues/10
+05:41:06 <havi__> so "mag" implies more curation and editorial.., and thematic approach. (i am asking about this for a talk context also...) 
+05:41:33 <skade> yep, that's kind of the inspiration
+05:42:30 <booyaa[> skade:  i don't know if you've visited readrust recently, but wesley's added categories: https://readrust.net/embedded/
+05:43:07 <havi__> i really like the notion of decentralized yet aggregated ....  i also think there could be a 'merch' angle for Rust community....
+05:43:17 <skade> booyaa[: I did
+05:43:48 <booyaa[> skade: could you create an issue for the magazine so we can discuss further and identify subtasks?
+05:44:07 <skade> booyaa[: yes, but probably not this week :D (all-hands stuff and all)
+05:44:07 <havi__> ...of doing limited edition print copies, and maybe sharing at Rust Fests or selling or ? 
+05:44:20 <booyaa[> skade: that's fine
+05:44:31 <skade> havi__: yes, maybe, but that's ... work :D. if we find a kind soul, that would be great, though.
+05:44:33 <havi__> (topic drift apology)....
+05:44:51 <skade> on the other hand, in my experience, if you got the hook, people will come
+05:45:27 <booyaa[> thanks skade for talking about the magazine
+05:45:38 <booyaa[> next: Direction for the YouTube channel
+05:45:57 <booyaa[> more importantly does it need direction? i see new videos being added presumably by skade?
+05:46:07 <skade> and others
+05:46:20 <badboy> yup, flaki published some from budapest today
+05:46:30 <skade> but I do a frequent pass seeing if theres new videos
+05:46:54 <booyaa[> i'm going to transfer the youtube guide this weekend, is there any thing else you need from us? should we be trying to recruit more people?
+05:47:01 <skade> well, what's there works, the question is whether we want to maybe extend that
+05:47:37 <booyaa[> i think i've got access and perhaps badboy ?
+05:47:55 <badboy> and some others as well
+05:48:08 <badboy> I can check the list later
+05:48:44 <skade> like, one of the things we're not using is that we have a live capabilities :)
+05:49:13 <badboy> flaki might try that next time he's running a meetup in budapest
+05:49:17 <booyaa[> for thigns like live coding sessions (twitch) or filming events
+05:49:19 <badboy> he got the setup for that
+05:50:38 <booyaa[> I'll create an issue for this to keep track of youtube. i should probably update our repo so the publication channels are links rather than a list of items https://github.com/rust-community/content-team#publication-channels
+05:52:01 <skade> \o/
+05:52:42 <booyaa[> k focus topics is everyone familar with issue? i gave a briefing at last weeks' main meeting.
+05:53:03 <booyaa[> hopefully this can be used to drive projects like the magazine
+05:53:19 <havi__> can i get the tl;dr on focus topics? 
+05:53:32 <badboy> same, wasn't there last week
+05:53:36 <badboy> *2 weeks ago
+05:53:51 <booyaa[> havi__: sure basically they're blog post topic ideas
+05:53:55 <badboy> oh wait, I was :D nevermin
+05:54:20 <havi__> ok, like skade's mag example topics or read rust topics 
+05:54:26 <booyaa[> once we've found a few we like we do a blog post on the community.rs blog and get people to participate a bit like #rust2017 campaign. yes
+05:55:02 <havi__> ok
+05:55:05 <havi__> thx
+05:55:12 <booyaa[> i think i might've linked the wrong issue whoops, ehre's the right one https://github.com/rust-community/content-team/issues/16
+05:55:29 <booyaa[> i'll remove 10 shortly, as you can see they're a lot of excellent suggestions for inspiring people to blog post
+05:56:14 <booyaa[> whoops got ahead of myself..so before we do the community.rs blog post
+05:56:35 <booyaa[> i'd like to test out our blog post campaign tracker: content-o-tron https://github.com/rust-community/content-o-tron
+05:57:24 <booyaa[> the idea being is it gives us a check list of things to do for the duration of the blog post campaign: i.e. twitter, posts on community.rs/urlo/twir.
+05:58:32 <booyaa[> there would also be stages like q&a (to allow people to clarify the scope of the blog topics), reviewing/editing, and then communcating to the community that these blog posts exists (twir/readrust/etc)
+05:59:28 <booyaa[> havi__: i'd also like to be able to suggest to some of the authors that they might want to submit their posts to mozilla hacks (if you think they're right type of content)
+06:00:25 <booyaa[> that was a bit of a digress into content-o-tron,sorry, but please add more topics to the https://github.com/rust-community/content-team/issues/10
+06:00:45 <booyaa[> that's it i think, any other business?
+06:01:10 <badboy> not from my side at the moment
+06:01:26 <booyaa[> i'll update the agenda to include the links
+06:01:31 <havi__> btw, this link is borked: https://community.rs/urlo/twir - booyaa[ i like that idea, although on hacks we like to be the first publisher, so we'd be interested in publishing or publishing simultaneously... but not after the post has been out
+06:02:41 <booyaa[> havi__: yeah that shouldn't have been a link sorry. community.rs, users.rust-lang.org and this week in twir
+06:03:00 <havi__> but def want more interesting rust content and new authors (at all levels) on hacks.  also, for tmrw: (~3pm UTC ) Lin's post: Making WebAssembly better for Rust & for all languages
+06:03:24 <havi__> i think you will enjoy! 
+06:03:29 <booyaa[> i reckon so :)
+06:03:37 <booyaa[> big wasm fan here
+06:03:52 <booyaa[> thanks everyone!
+06:04:00 <badboy> thanks!
+06:04:05 <badboy> have a nice evening
+06:04:10 <havi__> ✌️ thanks all! 
+06:13:47 <Manishearth> (vacationing this week, dont expect me in any meetings)
+06:13:58 <booyaa[> Manishearth: enjoy :)

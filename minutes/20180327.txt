@@ -1,0 +1,11 @@
+04:30:03 <meetingbot> Content meeting in an hours time (we moved back to #rust-community)! booyaa, manishearth, badboy, skade: ping! boopity boop!
+04:31:43 <booyaa[_> is anyone planning to attend? https://github.com/rust-community/content-team/issues/24
+04:32:03 <booyaa[_> just two items it would appear, we're prolonging the focus topic issue for another week.
+04:32:15 <booyaa[_> and should we repost links to cater for different timezones?
+04:35:59 <havi__> hey booyaa[  i am here but late... 
+04:43:37 <badboy> hey sorry
+04:43:47 <badboy> everyone in berlin is outside for dinner :/
+04:48:41 <havi__> hey badboy - no worries..., enjoy!  booyaa[  do you have any more 'content-o-tron type projects planned? 
+05:32:24 <booyaa[_> havi__: content-o-tron's still on-going no updates this week, expecting more progress next week!
+05:34:19 <booyaa[_> yeah no worries we'll scrap the meeting today. i figured stuff might not work because of all hands, see everyone (virtually) on friday hopefully!
+05:42:32 <havi__> thanks booyaa[  - i am giving a talk in early may about  developer-facing blogging - and i'd love to high-level cover the content o tron project - because i think it's such a brilliant idea... :)   could we chat 1:1 in real time about this at a time that works for you? 

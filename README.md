@@ -10,7 +10,7 @@ Tuesday 5:30PM UTC (alternating weeks to the main Community meeting on Wednesday
 
 ### Location
 
-- IRC Mozilla #rust-content EIAL (Easy IRC Access Link): https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-content
+- IRC Mozilla #rust-community EIAL (Easy IRC Access Link): https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-community
 - Alternative discussion thread (for those who can't use IRC at work) via github teams: https://github.com/orgs/rust-community/teams/content-team
 
 ## Team
@@ -20,10 +20,14 @@ Tuesday 5:30PM UTC (alternating weeks to the main Community meeting on Wednesday
 - @Manishearth
 - @skade
 - @wezm
-- @sunjay
+- @adityac8
 
 ## Publication channels
 
-- Community.rs blog
-- YouTube
-- Rust Blog
+- [Community.rs blog](http://blog.community.rs/en-US/)
+- [YouTube](http://youtube.com/c/rustvideos)
+- [Rust Blog](https://blog.rust-lang.org/)
+
+## Projects
+
+- [content-o-tron](https://github.com/rust-community/content-o-tron) - a process to generate more Rust related content!
