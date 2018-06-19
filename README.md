@@ -20,7 +20,7 @@ Tuesday 5:30PM UTC (alternating weeks to the main Community meeting on Wednesday
 - @Manishearth
 - @skade
 - @wezm
-- @sunjay
+- @adityac8
 
 ## Publication channels
 
