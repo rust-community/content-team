@@ -1,0 +1,59 @@
+05:31:13 <booyaa> meeting time!
+05:31:27 <booyaa> skade: Manishearth ag_dubs havi__ ping ^
+05:32:10 <ag_dubs> hey! do u need me for this meeting for something specific?
+05:32:34 <ag_dubs> (i read through the PR and it looks great btw, very impressed with ur docs)
+05:32:43 <booyaa> just to make you aware of the communications guidelines ah well there you go :)
+05:32:46 <booyaa> thanks :D
+05:32:56 <Manishearth> booyaa: hey
+05:32:58 <booyaa> that's it though ag_dubs 
+05:33:07 <havi__> hey folks - thanks for the ping, i forgot this was on. but i am here
+05:33:15 <booyaa> hello everyone!
+05:33:19 <ag_dubs> i'll put a review on the PR, but yeah, really love all the docs :)
+05:33:36 <booyaa> awesome :)
+05:33:40 <Manishearth> booyaa: did aditya every look into publicizing the -o-tron on the blog?
+05:34:31 <booyaa> only major announcement is that aditya is on the content-team readme, he's been on the team since the sprint.
+05:35:21 <booyaa> Manishearth: will add that onto the action items, it's been hectic for me irl. me and aditya can start a draft.
+05:35:27 <Manishearth> booyaa: thx
+05:35:39 <Manishearth> yeah no rush just wanted to know
+05:36:08 <Manishearth> ag_dubs: btw i will find gandalf today and talk to him about fluent
+05:36:17 <Manishearth> yell at me if I don't
+05:36:20 <booyaa> the next time is the communication guidence, i've drafted something would like some feedback (thanks skade)
+05:36:34 <booyaa> https://github.com/rust-community/content-team/pull/33/files
+05:37:01 <Manishearth> will have a look once I finish dealing with ALL THE PINGS
+05:37:40 <booyaa> so basically it's to help out content team members know what is an appropriate use of a hashtags. i've started on spam vs repeat messaging guidence.
+05:38:43 <booyaa> if there's anything that we have from rust or mozilla we could borrow that would be handy, i think it's kinda advice they give out when you're speaking potentially about subjects that may harm perception of rust or mozilla
+05:39:17 <booyaa> any comments? or thoughts?
+05:41:15 <booyaa> right next time is by aditya, just pinged him hopefully should be around
+05:41:31 <adityac8> hio
+05:41:32 <booyaa> is there anything people want to discuss while we wait?
+05:41:37 <booyaa> oh there you go :)
+05:41:40 <booyaa> adityac8: you have the floor
+05:41:41 <adityac8> sry for being late
+05:41:45 <booyaa> no worries
+05:42:04 <adityac8> I wanted to discuss about content-o-tron being a part of SOCs
+05:43:21 <adityac8> I have seen some of them such as Girlscript SUmmer Of Code and thought that having content-o-ton as a part of GGSOC would increase people knowing about the project and rust as a whole
+05:43:28 <adityac8> Any ideas on this?
+05:45:06 <booyaa> this would be very cool, what would you want to achieve with content-o-tron during these programmes? would it be like the mozilla sprint, primarily working on the repo and the process. or would you run a campaign?
+05:45:14 <booyaa> also how long would GSSOC last for?
+05:46:58 <adityac8> Most SOCs range for about 3 months and I have seen the communities(and not a specific project) being a part of them. That means, people selected could work on content-o-tron and on other projects within the community as well.
+05:47:44 <adityac8> For reference you can see https://channelcs.github.io/best-practices-in-a-collaborative-environment.html
+05:47:46 <adityac8> Point 6
+05:48:59 <adityac8> These programs would attract more people towards contributing in the community.
+05:50:56 <booyaa> does anyone have any objections to content-o-tron being part of GSSOC (or one of the other programmes)?
+05:53:42 <booyaa> adityac8: so what do we need to do next? my only concern is team member's time. i've only got a limited amount of time at the moment. would this be someting you could run with. the team would provide guidence and feedback
+05:54:57 <havi__> i don't think i'm clear on what's meant when you talk about 'content-o-tron' - is it the process of putting out a call for distributed blog posts on a given topic or is it the GH infrastructure to support, communicate, aggregate around a topic??? 
+05:55:10 <adityac8> I can volunteer as the lead. Would need some help in between from other members. I could research more on such programs and come up with a list which could be discussed later.
+05:56:02 <booyaa> havi__: content-o-tron when it's used as a tool, is a way to solicit blog posts on a given topic
+05:56:44 <havi__> what is the tooling - is there some automation? 
+05:56:51 <booyaa> but at the sametime the tool need maintenance, in particular during the mozilla sprint we spent a lot of time just getting the process and templates up and running.
+05:57:00 <havi__> ah, templates... 
+05:57:07 <booyaa> maybe it's beter to use the term toolkit rather than tool as that implies software i guess?
+05:58:20 <booyaa> adityac8: excellent! i'll add an action for you
+05:58:58 <adityac8> That sounds good
+05:59:17 <havi__> so this is to make it easier for more people to write things... are you using content-o-tron with #RustReach ? (i.e. is there a blogging requirement for participants in the program?)
+05:59:35 <booyaa> oh i complete forgot about this in the announcement, we discussed at the last main meeting and we'll take ownership of the content-o-tron curation tool and the blogging template.
+05:59:58 <booyaa> havi__: yes we're using it for both things
+06:00:22 <booyaa> #rustreach is a campaign within content-o-tron
+06:00:47 <booyaa> reL actions I will generate the issues shortly. for now they're in the agenda.
+06:00:49 <havi__> thx booyaa  ok. 
+06:00:50 <booyaa> that's it, thanks everyone!
