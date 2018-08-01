@@ -2,6 +2,8 @@
 
 Content provided by *drum roll* the Content team!
 
+Also, content provided *about* the Content team!
+
 ## Our focus
 
 The website should be low churn, if you have projects that are evolving please stick it behind a stable link i.e. commit bits are a bad idea.
