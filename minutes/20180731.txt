@@ -1,0 +1,69 @@
+04:42:27 <booyaa[> remind folks content team meeting at 5:30pm UTC https://github.com/rust-community/content-team/issues/37
+05:23:58 <booyaa[> starting the meeting 7 mins
+05:33:04 <booyaa[> meeting time!
+05:33:12 <booyaa[> anyone around?
+05:33:52 <booyaa[> skade sends his apologies, i imagine badboy will be absent too because of rustfestin
+05:34:36 <adityac8> hi
+05:34:43 <booyaa[> heya Aditya!
+05:34:46 <booyaa[> is Manishearth around?
+05:35:16 <adityac8> I dont know :)
+05:35:27 <adityac8> Can we ping him?
+05:35:27 <booyaa[> sorry that wasn't aimed at you ;)
+05:35:31 <booyaa[> we just did
+05:35:32 <adityac8> ohh
+05:36:09 <booyaa[> right no announcements, the only thing to discuss is what content should we put on the new Rust website. By content, stuff look after by the content team.
+05:36:18 <skade> is the meeting here?
+05:36:21 <booyaa[> yup
+05:36:23 <adityac8> yes
+05:36:44 <skade> argh, my chat started hanging :(
+05:36:49 <booyaa[> :(
+05:36:55 <skade> hi! L)
+05:37:33 <skade> I'm here, I actually got lost in timezones and have time
+05:38:10 <adityac8> Can someone pls send me the link to the new Rust website :)
+05:38:44 <booyaa[> I'd probably create a new introduction for the who the Content team are. Different from this one https://github.com/rust-community/content-team/ and this one https://github.com/rust-community/team#-content
+05:39:15 <booyaa[> I don't know if there's a staging site (skade?)
+05:39:41 <adityac8> >I'd probably create a new introduction for the who the Content team are
+05:39:45 <skade> no, sadly not, 
+05:39:46 <adityac8> That sounds great
+05:40:04 <adityac8> okay
+05:40:23 <skade> it's also mainly about text snippets, links, projects to link to
+05:40:54 <skade> the site content itself should be low churn, if you have anything you still want to evolve, just put it behind a stable link
+05:41:13 <booyaa[> I'll create a document in our team repo so we can add to it.
+05:41:43 <booyaa[> I remember skade mentioning it would be great if there's some kind of feed we can provide, because that would keep the content dynamic.
+05:41:53 <booyaa[> i think our youtube channel has an RSS feed
+05:42:09 <skade> there was the question on how to e.g. embed readrust into the website
+05:42:18 <skade> for example have an "editors pick" feed
+05:42:41 <skade> we have nothing for the video channel right now, but my plan would be to have a special channel to embed
+05:43:02 <booyaa[> I'll drop wesley a note if he's aware (readrust).
+05:44:42 <adityac8> Can we give ideas on the new website?
+05:46:16 <skade> booyaa[: he's not, it's also not something that we want to impose on him
+05:46:24 <skade> adityac8: sure!
+05:46:38 <adityac8> For the new website, I suggest we put up a page for newcomers on how to get involved with the community and projects
+05:47:03 <adityac8> We could also embed some youtube videos on simple Rust 101 kind
+05:47:09 <adityac8> ANy suggestions?
+05:47:43 <skade> I don't know if we have any good 101 videos currently.
+05:48:09 <skade> we'll have an entire page around the community team and their projects (that's what I am currently writing)
+05:48:22 <skade> I can send you a couple of drafts.
+05:48:35 <adityac8> ohkay :)
+05:48:53 <skade> It's not like we want to keep things secret, it's just that we want to a avoid 200 people rushing every aspect of the page.
+05:49:04 <adityac8> haha
+05:49:05 <booyaa[> skade: re: readrust - if it's not easily done with the current site, we might be able to extend the curation tool and create our own RSS feed? We'd need to do some fancy front end stuff to make the RSS pretty.
+05:49:28 <adityac8> @booyaa agreed!!
+05:49:56 <skade> booyaa[: in which sense? can't you have an rss feed with a hidden category?
+05:49:58 <booyaa[> do we feel the pages for the new comers and learning videos something to add/discuss for skade's document?
+05:50:22 <skade> I take everything, even in rough state :)
+05:51:55 <booyaa[> skade: just thinking ahead incase wesley hasn't got time. i don't know if we have an editors picks at the moment on rustread.
+05:51:58 <booyaa[> *checks*
+05:52:29 <skade> Is readrust an official project of the content team, by the way?
+05:52:32 <booyaa[> here's what we've got so far, please add more https://github.com/rust-community/content-team/tree/master/drafts
+05:52:52 <skade> like, would it be okay if we showcased it?
+05:53:17 <booyaa[> no not officially, i'll ask about the showcasing.
+05:53:25 <booyaa[> it's such a handy resource
+05:54:03 <skade> well, the community page should showcase community team projects :)
+05:54:15 <skade> any reason or was it just never asked?
+05:54:28 <booyaa[> never asked
+05:56:10 <booyaa[> writing an email now
+06:02:27 <Manishearth> booyaa[ i am now
+06:02:30 <booyaa[> right that's a wrap folks! sent the email, will update in next week's main meeting
+06:02:54 <booyaa[> Manishearth: no worries, just discussing what the conetnt team could add to their page on the new rust site
+06:05:26 <adityac8> Thanks everyone! :D
