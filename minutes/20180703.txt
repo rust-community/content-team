@@ -1,0 +1,18 @@
+05:30:09 <booyaa> meeting time!
+05:31:07 <booyaa> nothing much to announce other than i will probably do a team headcount next meeting and start using an attendance register like we do for the main team meeting.
+05:32:04 <booyaa> i'm going to merge the comms guideline, i'm planning to extend it later on as per skade's comments.
+05:34:08 <booyaa> so transferring the repos that were spawned from the content-o-tron project hasn't gone so successful. can anyone help with why we can't transfer them? https://github.com/rust-community/content-o-tron/issues/42#issuecomment-400472005
+05:34:21 <booyaa> the error message is `You don’t have the permission to create repositories on rust-community`
+05:34:44 <booyaa> does this mean i need to make the transfer repo owners temporary members of our org?
+05:35:02 <booyaa> if anyone knows please comment in that thread. will add it to the notes.
+05:35:52 <booyaa> no updates on the content-o-tron blog post, i'm going to try to write it this week a bit. i figured 100 words each day will do it.
+05:36:10 <booyaa> finally aditya's summer of code is deferred till our next meeting.
+05:36:25 <booyaa> any other business?
+05:37:15 <badboy> hey, sorry for letting you here alone, I just got home
+05:37:41 <badboy> I can help with the transfer I think
+05:37:45 <badboy> I check that out and get back to you
+05:37:53 <booyaa> that's okay if you've got any thoughts on the above please et me know. re: transfer - that would be super helpful :)
+05:38:09 <badboy> ping me for review on that blog post
+05:38:23 <booyaa> :)
+05:40:44 <booyaa> notes https://github.com/rust-community/content-team/issues/36#issuecomment-402237762
+05:41:30 <booyaa> k folks have a great evening :)
