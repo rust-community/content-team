@@ -1,0 +1,18 @@
+05:00:06 <booyaa> meeting time!
+05:00:23 <booyaa> Agenda: https://github.com/rust-community/content-team/issues/38
+05:01:10 <booyaa> No announcement or housekeeping
+05:01:37 <booyaa> Next item is should we move the meeting to discord?
+05:02:20 <booyaa> My main reason to move is that a lot of our team have moved over to discord, we've lost some voices.
+05:05:02 <booyaa> I'm going to try an experiment, I'll alternate the meetings between the two platforms.
+05:05:21 <booyaa> Right last update before AOB is I got a response back from Wesley / Read Rust!
+05:05:32 <skade> \o/
+05:05:54 <booyaa> So to refresh everyone's memories, we were talking about the new site and looking for ways to embed dynamic content.
+05:06:20 <booyaa> Read Rust would be a great fit for this, so I was asked to contact Wesley. I'll paraphrase his email:
+05:07:10 <skade> https://aws.amazon.com/premiumsupport/knowledge-center/authenticate-mfa-cli/
+05:07:26 <booyaa> We could create a **Editor’s Picks** category, and use the RSS/JSON feed. The content is static by nature because it’s powered by Cobalt., but Wesley’s not oppose to making something more dynamic
+05:07:40 <booyaa> He’s happy to support this work, just need requirements on how it would work in an ideal scenario.
+05:07:59 <booyaa> So in theory this could be a zero code solution, if we setup a new category?
+05:08:08 <booyaa> Thoughts?
+05:09:00 <booyaa> If anyoe wants to see the original email, I'll need to ask Wesley if he's okay for me to forward it on. I reckon he'll be okay
+05:12:01 <booyaa> any other business?
+05:14:54 <booyaa> thass a wrap!
