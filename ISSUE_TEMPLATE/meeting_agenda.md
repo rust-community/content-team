@@ -5,12 +5,12 @@ ___ DELETE ___
 ___ DELETE ___
 
 
-**5:30-6pm UTC on the community-team\general in Discord** (https://discordapp.com/channels/442252698964721669/443773747350994945) please ask @booyaa for invites if you don't haven't joined Discord before.
+**Monday 5-5:30pm UTC on the community-team\general in Discord** (https://discordapp.com/channels/442252698964721669/443773747350994945) please ask @booyaa for invites if you don't haven't joined Discord before.
 
 **Agenda** (shortened URL to this issue: [bit.ly/2GSLLYA](http://bit.ly/2GSLLYA)
 
-- Announcements - __chair_name__ 5mins
+- Announcements - __chair_name__ ?mins
 
-20 mins remaining
+30 mins remaining
 
 Please comment below if you wish to add anything to the agenda!
