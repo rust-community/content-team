@@ -45,7 +45,7 @@ We're bound by the same [Code of Conduct][link_coc] as the main Rust Community T
 [link_youtube]: http://youtube.com/c/rustvideos
 [link_community_blog]: http://blog.community.rs/en-US/
 [link_rust_blog]: https://blog.rust-lang.org/
-[liknk_cot]: https://github.com/rust-community/content-o-tron
+[link_cot]: https://github.com/rust-community/content-o-tron
 [link_coc]: https://github.com/rust-community/team/blob/master/CODE_OF_CONDUCT.md
 [link_meeting_time]: #meeting-times
 [link_issues]: https://github.com/rust-community/content-team/issues
