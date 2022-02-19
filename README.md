@@ -26,7 +26,6 @@ Monday 5:00PM UTC (alternating weeks to the main Community meeting on Wednesdays
 
 - [This Week in Rust][link_twir]
 - [YouTube][link_youtube]
-- [Community.rs blog][link_community_blog]
 - [Rust Blog][link_rust_blog]
 
 
